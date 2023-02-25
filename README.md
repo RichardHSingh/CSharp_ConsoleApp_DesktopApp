@@ -6,7 +6,7 @@ Create a simple desktop application to be used as a visitor registration system 
 
 The "Form" application must capture the following is requirements:
 
-~Coding~ 
+~Coding
 <br>• Designing of Form 1 & 2 as per design shown
 <br>• Make all fields of the Forms are mandatory fields
 <br>• Apply validation on Mobile number field
@@ -19,7 +19,7 @@ The "Form" application must capture the following is requirements:
 <br>• Enable receptionist to delete the meeting from the In-progress meeting list once visitor leaves
 <br>
 
-~Documentation~
+~Documentation
 
 <br>• Produce a specification document for the application known as Software Requirement Specification
 it must include:
