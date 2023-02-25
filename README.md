@@ -29,9 +29,6 @@ it must include:
 <br> Design Considerations
 <br> Functional Requirements
 
-
 <br>• Create a document with minimum 3 relevant FAQs
-
 <br>• White Box testing technique on "Custom Method"
-
 <br>• Black Box testing techniques on "Meeting Aim"
