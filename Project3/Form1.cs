@@ -250,5 +250,10 @@ namespace Project3
         {
 
         }
+
+        private void groupBox3_Enter(object sender, EventArgs e)
+        {
+
+        }
     }
 }

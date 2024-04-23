@@ -54,5 +54,10 @@ namespace Project3
             DialogResult = DialogResult.Cancel;
             this.Close();
         }
+
+        private void Aim_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

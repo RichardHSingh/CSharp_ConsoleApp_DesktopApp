@@ -276,6 +276,7 @@
             this.groupBox3.TabIndex = 1;
             this.groupBox3.TabStop = false;
             this.groupBox3.Text = "Visitors On-Site";
+            this.groupBox3.Enter += new System.EventHandler(this.groupBox3_Enter);
             // 
             // visitorsOnSiteLB
             // 
